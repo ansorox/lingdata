@@ -1,0 +1,101 @@
+sentence,source,speaker,animacy,CLF,CLF_type,code
+"Pada suatu hari, ada dua anak laki-laki yang berteman. Mereka satu sekolah.",frog,3,anim,no,,spoken
+"Ada dua anak bersahabat, yang satu pake kacamata dan berjerawat, yang satu laginya tidak.",frog,6,anim,no,,spoken
+"Ada dua orang anak yang, anak laki-laki yang bersahabat.",frog,7,anim,yes,orang,spoken
+Ada dua orang anak laki-laki bersahabat.,frog,9,anim,yes,orang,spoken
+Ada dua laki-laki dan ee berteman.,frog,10,anim,no,,spoken
+"O, ternyata, si David juga mempunyai ee dua teman,",frog,10,anim,no,,spoken
+"Tapi , kenapa kau minum dua cangkir kopi ?",sub,1,inanim,no,,spoken
+Menurutku wajar merasa gugup bagi dua orang saling memeluk .,sub,2,anim,yes,orang,spoken
+Anda akan membangun kontak pada tanah dengan dua anggota baru Filantropi .,sub,3,anim,no,,spoken
+Saya bisa melihat dua prajurit pada tingkat yang lebih rendah .,sub,4,anim,no,,spoken
+"Eh , dua monster besar ... dengan mata hijau yang besar !",sub,5,anim,no,,spoken
+Hanya ditemukan ketika dua hati lembut mengalahkan,sub,6,inanim,no,,spoken
+"dua orang kurir Jerman yang membawa dokumen resmi , terbunuh di kereta api dari Oran",sub,7,anim,yes,orang,spoken
+dua orang kurir Jerman ditemukan terbunuh di padang pasir .,sub,8,anim,yes,orang,spoken
+"kasihan sekali dua orang kurir Jerman itu , ya ?",sub,9,anim,yes,orang,spoken
+dua penjaga di tiap pintu .,sub,10,anim,no,,spoken
+- tidak. dua champagne cocktails .,sub,11,inanim,no ,,spoken
+tolong dua cognac .,sub,12,inanim,no ,,spoken
+Ada sebuah taman yang indah di mana dua anak bermain .,sub,13,anim,no ,,spoken
+"Berbicara tentang paruh , apa waktu dua toucans telah bercinta .",sub,14,anim,no ,,spoken
+Apa gadis cantik seperti kamu lakukan menikahi saudara ini berkepala dua tambang ?,sub,15,inanim,no ,,spoken
+"Annie , kami hanya dua pembantu tua sekarang .",sub,16,anim,no ,,spoken
+Mary memiliki dua bayi lebih tetapi masih ditemukan waktu untuk menjalankan USO .,sub,17,anim,no ,,spoken
+Anda harus berarti dua pohon lainnya .,sub,18,inanim,no ,,spoken
+Kita bisa membuat dua manusia salju .,sub,19,inanim,no ,,spoken
+"Namun ada satu rumah , paling tidak , di mana dua hati yang setia masih dipegang kehangatan amal Kristen .",sub,20,inanim,no ,,spoken
+Hanya ada dua kamar .,sub,21,inanim,no ,,spoken
+"Bersama-sama lagi , seperti dua bintang kecil .",sub,22,inanim,no ,,spoken
+"Husband Dan dua putra , tewas .",sub,23,anim,no ,,spoken
+Tiga puluh dua desertir dari sisi lain .,sub,24,anim,no ,,spoken
+"Siapkan minum , Bartender , dua wiski .",sub,25,inanim,no ,,spoken
+Ada yang memakai dua senjata,sub,26,inanim,no ,,spoken
+"- Ya , dua senjata .",sub,27,inanim,no ,,spoken
+Wajah seorang gadis muda terlihat di belakang tiga gadis yang terseyum .,sub,28,anim,no ,,spoken
+"Dia punya tiga suami , dan Aku akan menjadi perawan tua !",sub,29,anim,no ,,spoken
+Saya tahu tiga buruh tani yang akan keluar dari pekerjaan .,sub,30,anim,no ,,spoken
+Hiduplah tiga pesawat,sub,31,inanim,no ,,spoken
+Kami adalah tiga chappies senang dengan serapes tajam,sub,32,anim,no ,,spoken
+Dan aku akan punya beberapa harem dan mungkin tiga atau empat istri .,sub,33,anim,no ,,spoken
+Dia hanya kehilangan tiga tombol dari rompinya .,sub,34,inanim,no ,,spoken
+Ini adalah cerita tentang tiga beruang .,sub,35,anim,no ,,spoken
+Hanya satu dari tiga kacang .,sub,36,inanim,no ,,spoken
+Dan aku akan punya beberapa harem dan mungkin tiga atau empat istri .,sub,37,inanim,no ,,spoken
+"Sekarang mereka tahu bahwa ada empat senjata , mereka tidak akan lagi berhenti .",sub,38,inanim,no ,,spoken
+Dia punya empat anak ?,sub,39,anim,no ,,spoken
+kekasihku mengirimiku empat ekor burung,sub,40,anim,yes,ekor,spoken
+tiga ayam perancis,sub,40,anim,no,,spoken
+", dua burung merpat",sub,40,anim,no,,spoken
+dan empat tahanan yg ditinggalkan,sub,41,anim,no ,,spoken
+dan empat temannya .,sub,42,anim,no,,spoken
+Arkeolog telah mengonfirmasi hubungan dua pria yang meninggal di zaman Viking berdasarkan hasil tes DNA,rep,43,anim,no,,written
+slam dan Wakaf Bahrain telah menutup sementara dua masjid selama satu pekan,rep,44,inanim,no,,written
+"Kepolisian Indonesia mengumumkan dua orang penyerang dia, yaitu oknum polisi bernama Rahmat Kadir Mahulette",rep,45,anim,yes,orang,written
+Pun halnya dua sahabat terdekat Rasulullah SAW yakni Umar bin Khatab dan Abu Bakar Asshidiq.,rep,46,anim,no ,,written
+"Dua orang anak dilarikan ke rumah sakit setelah tertimpa tiang masjid di Muzaffarnagar, India.",rep,47,anim,yes,orang,written
+Polda Metro Jaya bersama Polres Bekasi menciduk dua pelaku perampokan,rep,48,anim,no,,written
+Tim penyelamat sedang mencari dua perahu yang membawa puluhan migran yang hilang di laut antara Sahara Barat,rep,49,inanim,no,,written
+Dua orang mahasiswa Universitas Islam Bandung (Unisba) Bandung,rep,50,anim,yes,orang,written
+Dua orang lansia dilaporkan tewas dalam peristiwa kebakaran yang melanda sebuah rumah di Permata,rep,51,anim,yes,orang,written
+Ada Dua Masjid Bantuan Pemerintah Indonesia,rep,52,inanim,no,,written
+"selain dua korban tewas,",rep,53,inanim,no,,written
+Polisi mengatakan dua orang tewas dan tujuh orang lainnya terluka dalam penembakan di Charlotte,rep,54,anim,yes,orang,written
+Didapati setidaknya ada tiga pengelola kafe tempat hiburan yang masih beroperasi di atas jam 21.00 WIB,rep,55,anim,no,,written
+"Tiga dosen tersebut masing-masing berasal dari Fakultas Kedokteran, Fakultas MIPA, san Fakultas Teknik",rep,56,anim,no,,written
+Gubernur Jawa Timur (Jatim) Khofifah Indar Parawansa mengungkapkan adanya tiga warga Jatim,rep,57,anim,no,,written
+"Jamal menjelaskan bahwa tiga dosen yang meninggal dunia karena infeksi virus corona berasal dari Fakultas Kedokteran,",rep,58,anim,no,,written
+Kapolres Madiun AKBP Eddwi Kurniyanto menyatakan terdapat tiga anggotanya,rep,59,anim,no,,written
+Tiga tersangka kasus dugaan pelanggaran protokol kesehatan pada kerumunan Petamburan,rep,60,anim,no,,written
+Polsek Kalideres Jakarta Barat menangkap tiga pencuri motor yang beraksi di Jalan Kamal Raya,rep,61,anim,no,,written
+Tiga pria kulit putih yang diamankan bulan lalu dalam kasus pembunuhan seorang pria kulit hitam didakwa,rep,62,anim,no,,written
+Indonesia dipastikan menambah tiga atlet ke Olimpiade 2020 Tokyo lewat cabang renang dan atletik.,rep,63,anim,no,,written
+"Tiga kapal nelayan itu hendak mudik ke Karawang, Subang, Indramayu, dan sekitarnya",reo,64,inanim,no,,written
+"Empat saksi yang mangkir panggilan KPK tersebut, yakni seorang konsultan pajak bernama Agus Susetyo",sua,65,anim,no,,written
+Satuan Tugas Penanggulangan COVID-19 Provinsi Riau mengatakan empat warga negara India yang menjadi bagian dari 22,sua,66,anim,no,,written
+Empat pemain asing yang akan segera teken kontrak dengan Persiraja belum pernah bermain di Indonesia.,sua,67,anim,no,,written
+"Kapten tim Real Madrid, Sergio Ramos, memiliki empat anak yang bermata indah",sua,68,anim,no,,written
+"Tapi fantastisnya, perempuan tersebut malah berhasil hamil empat bayi kembar sekaligus.",sua,69,anim,no,,written
+"Daftarkan ponsel dilengkapi empat kamera, produk Xiaomi ini diduga gunakan in​-display fingerprint.",sua,70,inanim,no,,written
+"Satu dari Empat Gadis ABG Palembang Hilang, Beri Pesan Ingin Pulang.",sua,71,anim,no,,written
+"Menyadur ABC News, Selasa (2/2/2021) tiga dari empat pria yang dituduh memerkosa dua gadis remaja di selatan Brisbane Desember lalu, ",sua,72,anim,no,,written
+"Pendatang baru kelas entry-level ini membawa banyak keunggulan, beberapa di antaranya adalah baterai jumbo serta empat kamera.",sua,73,inanim,no,,written
+"Empat pemain tersebut adalah Rachmat Irianto, Rivky Mokodompit, Arif Satria dan Koko Ari",sua,74,anim,no,,written
+Seorang wanita di India yang mengalami insiden pemerkosaan oleh empat orang pria hingga mengalami patah tulang belakang,sua,75,anim,yes,orang,written
+Aksi penembakan di Amerika Serikat dilaporkan kembali terjadi. Kali ini disebut ada empat orang korban tewas akibat insiden,sua,76,anim,yes,orang,written
+"Aparat Kepolisian Resor Kabupaten Gresik, Jawa Timur, menangkap lima pelaku pemalakan yang kedapatan melakukan",sua,77,anim,no,,written
+Kumpulan Berita LIMA KAMERA: Samsung Galaxy A72 Bakal Usung Lima Kamera?,sua,78,inanim,no,,written
+Mengenai status lima pelaku tersebut apakah sudah ditetapkan sebagai tersangka,sua,79,anim,no,,written
+"Lima saksi yang dihadirkan Jaksa Penuntut Umum (JPU) dari KPK dalam persidangab antara lain, eks pejabat pembuat komitmen kementerian",sua,80,anim,no,,written
+"Lima Motor Ini DIklaim Paling Mahal Sedunia, Apa Saja?",sua,81,inanim,no,,written
+Sedikitnya lima mobil mengalami rusak akibat tertimpa pohon yang diduga tumbang akibat cuaca angin kencang,sua,82,inanim,no,,written
+lima kucing besar ini meninggalkan kandangnya yang berada di kawasan perumahan Gulshan-e-Muazzam.,sua,83,anim,no,,written
+Kumpulan Berita LIMA PINTU: Suzuki Jimny Versi Lima Pintu Meluncur Tahun Depan?,sua,84,inanim,no,,written
+"Lima tersangka kasus penusukan terhadap Muharram Jaya alias Musjaya (48), tim sukses calon wali kota dan wakil wali kota",sua,85,anim,no,,written
+Hingga saat ini sebanyak lima kapal tongkang untuk mengangkut batubara terdampar akibat ombak besar di sepanjang Pantai,sua,86,inanim,no,,written
+"Lima pemain tersebut adalah kiper Ari Wibowo, bek kiri Zikri Akbar, gelandang Elia Basna, pemain sayap Ricky Kayame, dan striker veteran",sua,87,anim,no,,written
+Pelatih tim nasional U-23 Indonesia Indra Sjafri akan memasukkan nama lima pemain senior,sua,88,anim,no,,written
+penerus Samsung Galaxy S10 Series ini bakal dipersenjatai lima kamera alias penta camera pada bagian belakang ponsel,sua,89,inanim,no,,written
+Seorang gadis 14 tahun di Belgia bunuh diri setelah menjadi korban pemerkosaan oleh lima pria,sua,90,anim,no,,written
+Pemanggilan lima pimpinan KPK termasuk Firli Bahuri itu dijadwalkan pada pekan depan.,sua,91,anim,no,,written
+Lima siswa di China dijebloskan ke penjara setelah terpergok memanipulasi aplikasi pemesanan KFC demi mendapatkan ayam,sua,92,anim,no,,written
